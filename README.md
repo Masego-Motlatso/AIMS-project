@@ -3,4 +3,4 @@ titled, _Spatial Modelling and Mapping of Species Distributions and Community Co
 supervised by Gabriella J. Kietzka and Cang Hui of Stellenbosch University.
 
 Suggested citation:
-Malatji, M.M., Kietzka, G.J., Hui, C. 2024. Spatial Modelling and Mapping of Species Distributions and Community Compositions. AIMS, Muizenberg
+Malatji, M.M., Kietzka, G.J., Hui, C. 2024. R script: Spatial Modelling and Mapping of Species Distributions and Community Compositions. AIMS, Muizenberg
